@@ -37,5 +37,6 @@ public class Mock_1 {
 	      String user=msg.getText();
 	      System.out.println("comapareTo");
 		    System.out.println(user .compareTo(name));
+		System.out.println("Bhanu");
 	}
 }
